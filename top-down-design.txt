@@ -1,0 +1,31 @@
+Making a sandwich:
+1. Gather ingredients
+  1.1 Take 2 pieces of bread out
+  1.2 Open refrigerator
+    1.2.1 Take out turkey
+    1.2.2 Take out mustard
+    1.2.3 Take out tomato
+    1.2.4 Take out sliced cheese
+    1.2.5 Take out an onion
+    1.2.6 Put all of the ingredients onto the counter
+2. Assemble the sandwich
+  2.1 Gather kitchenware
+    2.1.1 Get a plate
+    2.1.2 Get a butter knife
+    2.1.3 Get a cutting board
+    2.1.4 Get a vegetable cutting knife
+  2.2 Put the 2 pieces of bread on the plate
+  2.3 Cut the vegetables
+    2.3.1 Put the tomato on the cutting board
+    2.3.2 Use the vegetable cutting knife to cut the tomato in thin slices
+    2.3.3 Put the onion on the cutting board
+    2.3.4 Use the vegetable cutting knife to the cut the onion into a couple thin slices
+  2.4 Squirt the mustard on one slice of the bread
+  2.5 Use the butter knife to spread mustard evenly on the slice of bread
+  2.6 Put a slice of cheese on top of the mustard side of the bread
+  2.7 Put a couple slices of turkey on top of the cheese
+  2.8 Put cut tomato slices on top of turkey
+  2.9 Put cut onion slices on top of the tomato
+  2.10 Put the second slice of bread on top of the tomato
+  2.11 Use butter knife to cut the assembled sandwich diagonally in half
+3. Eat your sandwich
