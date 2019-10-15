@@ -1,0 +1,16 @@
+Class: Boat
+
+Attributes:
+Class: Boat
+Attributes and Instances:
+color (string): "Red"
+passengers (array): ['captain', 'cook']
+totalFuel (integer): 10
+currentFuel (integer): 5
+boatOn (boolean): No
+
+Methods:
+changePaint (changes color attribute): color = "Pink"
+addPassenger (add passenger to passenger array): passengers = ['captain', 'cook', 'housekeeper']
+fillFuel (subtracts currentFuel from totalFuel and fills that number): 10 - 5 = 5
+startEngine (changes boatOn attribute): boatOn = Yes
