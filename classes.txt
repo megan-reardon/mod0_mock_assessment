@@ -1,0 +1,13 @@
+Class: Boat
+Attributes:
+color (string)
+passengers (array)
+totalFuel (integer)
+currentFuel (integer)
+boatOn (boolean)
+
+Methods:
+changePaint (changes color attribute)
+addPassenger (add passenger name to passenger array)
+fillFuel (subtracts currentFuel from totalFuel and fills that number)
+startEngine (changes boatOn attribute)
